@@ -29,7 +29,7 @@ O objetivo é implementar um sistema de gerenciamento de tópicos de fórum com 
 - Java 17+  
 - Spring Boot  
 - Spring Data JPA  
-- Banco relacional (PostgreSQL, MySQL, H2, etc.)  
+- Banco relacional (MySQL)  
 - Spring Security  
 - Maven ou Gradle  
 
@@ -51,4 +51,4 @@ O objetivo é implementar um sistema de gerenciamento de tópicos de fórum com 
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/topicosforum.git
+https://github.com/manobernardo/topicosForum.git
